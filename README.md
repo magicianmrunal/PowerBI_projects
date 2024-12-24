@@ -6,4 +6,5 @@ related to their current job roles and details related to it.
 ** I have created an interactive dashboard to show the insights which I have gained through analysis.
 
 
-**I have also uploaded the raw dataset here.
+** I have also uploaded the pdf snapshot of dashboard and the raw dataset here. 
+** The complete interactive dashboard is only available through downloading and opening it in the Power BI application.
